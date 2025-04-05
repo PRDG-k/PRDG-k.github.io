@@ -2,9 +2,11 @@ title:              Prodigy
 email:              lasrb6605@gmail.com
 description:        Algorithmic Problem Solving
 author:             mq
-baseurl:            "/PRDG-k.github.io"
+baseurl:            "/PRDG-k-clean-blog-jekyll"
 url:                "https://PRDG-k.github.io"
 
+remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+  
 # Social Profiles
 twitter_username:   
 github_username:    PRDG-k
@@ -23,3 +25,4 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+  - jekyll-remote-theme
