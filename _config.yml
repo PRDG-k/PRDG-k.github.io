@@ -2,7 +2,7 @@ title:              Prodigy
 email:              lasrb6605@gmail.com
 description:        Algorithmic Problem Solving
 author:             mq
-baseurl:            "/PRDG-k-clean-blog-jekyll"
+# baseurl:            "/PRDG-k-clean-blog-jekyll"
 url:                "https://PRDG-k.github.io"
 
 # remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
